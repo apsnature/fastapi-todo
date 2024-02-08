@@ -20,3 +20,22 @@
     pip install fastapi
     pip install uvicorn
     
+
+
+
+****************************************************************************************************************
+
+
+
+# Notes to Push code on github using gitbash command line
+- Clone your directory
+- In directory open gitbash and use following commands
+- git init
+- git add .
+- git status
+-  git commit -m 'message'
+-  git remote add origin 'https://github.com/apsnature/fastapi-todo.git'
+-  git push -u origin master
+- 
+
+  
