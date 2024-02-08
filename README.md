@@ -2,8 +2,8 @@
 
 # Steps
 
-- 1) Create a directory of your project
-- 2) Create Virtual Environment
+-  Create a directory of your project
+-  Create Virtual Environment
 
     First Check if you have Python 3.12 installed by default after installing Anaconda:
     python --version
@@ -15,7 +15,7 @@
     conda activate env_fastapi
     python --version
 
-- 3) Following Packages installed
+-  Following Packages installed
     
     pip install fastapi
     pip install uvicorn
